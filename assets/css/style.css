@@ -34,7 +34,7 @@ body {
 
 /* Logo Glow */
 .logo {
-  font-size: 1.9rem;
+  font-size: 1rem;
   font-weight: bold;
   color: #00f0ff;
   text-shadow: 0 0 5px #00f0ff, 0 0 10px #00d0ff, 0 0 20px #00baff;
